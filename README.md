@@ -10,4 +10,4 @@ A student, designer & developer. A JavaScript enthusiast. Interested in Rust & C
 
 ---
 
-<a href="https://reddit.com/user/PantheraRed"><img align="center" src="assets/reddit_logo.svg" width=20 alt="reddit" /></a>&ensp;<a href="https://discord.gg/KBfTgpx"><img align="center" src="assets/discord_logo.svg" width=20 alt="discord" /></a>
+<a href="https://reddit.com/user/PantheraRed"><img align="center" src="assets/reddit_logo.svg" width=20 alt="reddit" /></a>&ensp;<a href="https://discord.gg/KBfTgpx"><img align="center" src="assets/discord_logo.svg" width=20 alt="discord" /></a>&ensp;<a href="https://gitlab.com/PantheraRed"><img align="center" src="assets/gitlab_logo.svg" width=20 alt="gitlab" /></a>
