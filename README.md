@@ -14,6 +14,8 @@
 **Nickname(s):** Red
 <br />
 **Bio:** A student, designer & developer. A JavaScript enthusiast. Interested in Rust & C++.
+<br />
+**Pronouns:** He/Him
 
 ## Statistics
 
