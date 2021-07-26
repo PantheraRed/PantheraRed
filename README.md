@@ -4,9 +4,9 @@
     <img src="assets/profile_banner.svg" width="600" alt="PantheraRed" />
   </p>
   <br />
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=PantheraRed" alt="PantheraRed's Profile Visits" />
-  </p>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=PantheraRed&label=Profile Visits &#8203;" alt="PantheraRed's Profile Visits" />
+  </a>
 </div>
 
 ## About
@@ -19,11 +19,21 @@
 
 ## Statistics
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PantheraRed&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070" alt="PantheraRed's Github Statistics" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PantheraRed&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070" alt="PantheraRed's Language Statistics" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PantheraRed&show_icons=true&include_all_commits=true&theme=radical" alt="PantheraRed's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PantheraRed&layout=compact&theme=radical" alt="PantheraRed's Language Stats" />
+</a>
 
 ---
 
-<a href="https://reddit.com/user/PantheraRed"><img align="center" src="assets/reddit_logo.svg" width=18 alt="reddit" /></a>&ensp;<a href="https://discord.gg/KBfTgpx"><img align="center" src="assets/discord_logo.svg" width=18 alt="discord" /></a>&ensp;<a href="https://gitlab.com/PantheraRed"><img align="center" src="assets/gitlab_logo.svg" width=18 alt="gitlab" /></a>
+<a href="https://reddit.com/user/PantheraRed">
+  <img align="left" src="assets/reddit_logo.svg" width=18 alt="Reddit" />
+</a>
+<a href="https://gitlab.com/PantheraRed">
+  <img align="left" src="assets/gitlab_logo.svg" width=18 alt="GitLab" />
+</a>
+<a href="https://discord.gg/KBfTgpx">
+  <img align="left" src="assets/discord_logo.svg" width=18 alt="Discord" />
+</a>
