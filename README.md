@@ -1,21 +1,12 @@
-<div align="center">
-  <br />
-  <p>
-    <img src="assets/profile_banner.svg" width="600" alt="PantheraRed" />
-  </p>
-  <br />
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PantheraRed&label=Profile Visits &#8203;" alt="PantheraRed's Profile Visits" />
-  </a>
-</div>
-
 ## About
 
 **Nickname(s):** Red
 <br />
-**Bio:** A student, designer & developer. A JavaScript enthusiast. Interested in Rust & C++.
-<br />
 **Pronouns:** He/Him
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=PantheraRed&label=Profile Visits &#8203;" alt="PantheraRed's Profile Visits" />
+</a>
 
 ## Statistics
 
