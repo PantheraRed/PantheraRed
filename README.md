@@ -25,6 +25,6 @@
 <a href="https://gitlab.com/PantheraRed">
   <img align="left" src="assets/gitlab_logo.svg" width=18 alt="GitLab" />
 </a>
-<a href="https://discord.gg/KBfTgpx">
+<a href="https://discord.gg/XTsCQNd">
   <img align="left" src="assets/discord_logo.svg" width=18 alt="Discord" />
 </a>
