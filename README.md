@@ -1,7 +1,7 @@
 ## About
 
 **Nickname(s):** Red
-<br />
+<br>
 **Pronouns:** He/Him
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -25,6 +25,6 @@
 <a href="https://gitlab.com/PantheraRed">
   <img align="left" src="assets/gitlab_logo.svg" width=18 alt="GitLab" />
 </a>
-<a href="https://discord.gg/XTsCQNd">
+<a href="https://discord.com/users/382217571208003584">
   <img align="left" src="assets/discord_logo.svg" width=18 alt="Discord" />
 </a>
