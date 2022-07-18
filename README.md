@@ -16,15 +16,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PantheraRed&layout=compact&theme=radical" alt="PantheraRed's Language Stats" />
 </a>
-
----
-
-<a href="https://reddit.com/user/PantheraRed">
-  <img align="left" src="assets/reddit_logo.svg" width=18 alt="Reddit" />
-</a>
-<a href="https://gitlab.com/PantheraRed">
-  <img align="left" src="assets/gitlab_logo.svg" width=18 alt="GitLab" />
-</a>
-<a href="https://discord.com/users/382217571208003584">
-  <img align="left" src="assets/discord_logo.svg" width=18 alt="Discord" />
-</a>
