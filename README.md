@@ -1,8 +1,10 @@
 ## About
 
-**Nickname(s):** Red
+**Nickname:** Red
 <br>
 **Pronouns:** He/Him
+
+*Been a programmer since 2020*
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=PantheraRed&label=Profile Visits &#8203;" alt="PantheraRed's Profile Visits" />
