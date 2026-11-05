@@ -1,4 +1,9 @@
 {
   "name": "Red Panther",
-  "bio": "Just a dev."
+  "bio": "Just a dev.",
+  "headline": "Software developer",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/PantheraRed" },
+    { "label": "Website", "url": "https://example.com" }
+  ]
 }
