@@ -1,9 +1,15 @@
 {
   "name": "Red Panther",
-  "bio": "Just a dev.",
+  "avatar": "https://github.com/PantheraRed.png",
   "headline": "Software developer",
+  "pronouns": "he/him",
+  "location": "Somewhere, Earth",
+  "bio": "Just a dev.",
   "links": [
-    { "label": "GitHub", "url": "https://github.com/PantheraRed" },
     { "label": "Website", "url": "https://example.com" }
+  ],
+  "social": [
+    { "label": "GitHub", "url": "https://github.com/PantheraRed" },
+    { "network": "Mastodon", "url": "https://mastodon.example/@red" }
   ]
 }
