@@ -9,7 +9,9 @@
     { "label": "Website", "url": "https://example.com" }
   ],
   "social": [
-    { "label": "GitHub", "url": "https://github.com/PantheraRed" },
+    { "network": "GitHub", "url": "https://github.com/PantheraRed" },
     { "network": "Mastodon", "url": "https://mastodon.example/@red" }
-  ]
+  ],
+  "email": "red@example.com",
+  "phone": "+1 202 555 0100"
 }
